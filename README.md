@@ -1,4 +1,4 @@
-# Example of downloading large files from S3 using Promises and Streams approaches
+# Downloading large files from S3 using Promises and Streams approaches
 
 You might thinking about  how to download your large files from Storage services. In examples folder you'll find a few examples of how to use it.You must follow a few requirements to run this project in your machine:
 
