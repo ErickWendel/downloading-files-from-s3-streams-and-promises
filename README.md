@@ -9,6 +9,9 @@ You might thinking about  how to download your large files from Storage services
 
 - Download from: [kaggle.com/stackoverflow/stack-overflow-2018-developer-survey](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey)
 
+### Demo
+![](./resources/video-streams-vs-promises.gif)
+
 ## Author
 
 - [@erickwendel_](twitter.com/erickwendel_)
